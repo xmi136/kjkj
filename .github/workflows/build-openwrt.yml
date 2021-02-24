@@ -12,7 +12,7 @@ on:
       ssh:
         description: 'SSH远程'
         required: true
-        default: 'ssh-actions'
+        default: 'true'
       wxtz:
         description: '微信通知'
         required: false
